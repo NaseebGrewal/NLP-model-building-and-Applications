@@ -1,0 +1,13 @@
+-r requirements-ci.txt
+
+# NB
+jupyter
+matplotlib
+
+# eval
+pandas
+nltk
+rouge_score
+
+# code tools
+ruff
