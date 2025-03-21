@@ -50,7 +50,7 @@ Start by cloning this repository to your local machine:
 ```bash
 git clone https://github.com/yourusername/NLP-model-building-and-Applications.git
 cd NLP-model-building-and-Applications
-```bash
+```
 
 ### 2. **Set up the Environment**
 You can set up a Python environment using venv or conda. To get started with pip, you can install the required dependencies:
